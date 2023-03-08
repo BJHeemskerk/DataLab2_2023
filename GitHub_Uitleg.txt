@@ -1,5 +1,5 @@
 Inloggen bij de GitHub omgeving:
-pwd									                (Print Working Directory om te kijken naar welke directory je zit)
+pwd									 (Print Working Directory om te kijken naar welke directory je zit)
 git clone 'link v GitHub'			      (Hiermee maak je een local copy op je eigen laptop)
 
 Aanpassingen maken:
