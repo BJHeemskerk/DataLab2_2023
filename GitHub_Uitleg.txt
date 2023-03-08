@@ -1,13 +1,13 @@
 Inloggen bij de GitHub omgeving:
-pwd									(Print Working Directory om te kijken naar welke directory je zit)
-git clone 'link v GitHub'			(Hiermee maak je een local copy op je eigen laptop)
+pwd									                (Print Working Directory om te kijken naar welke directory je zit)
+git clone 'link v GitHub'			      (Hiermee maak je een local copy op je eigen laptop)
 
 Aanpassingen maken:
-cd 'directory name'					(Change directory om naar de juiste map op je laptop te gaan)
-ls									(ls laat alle files/mappen/e.d. in die map zien)
-git add 'naam bestand'				(Maakt een bestand klaar om geupload te worden)
+cd 'directory name'					        (Change directory om naar de juiste map op je laptop te gaan)
+ls									                (ls laat alle files/mappen/e.d. in die map zien)
+git add 'naam bestand'				      (Maakt een bestand klaar om geupload te worden)
 git commit -m 'uitleg verandering'	(Zorgt ervoor dat er een comment komt over de verandering voor duidelijkheid)
-git push							(Upload het bestand met de bijbehorende comment)
+git push							              (Upload het bestand met de bijbehorende comment)
 
 Bestanden ophalen:
-git pull							(Haalt alle meest recente versies van de bestanden op uit de global library)
+git pull							              (Haalt alle meest recente versies van de bestanden op uit de global library)
